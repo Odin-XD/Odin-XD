@@ -1,5 +1,5 @@
 # 💫 About Me:
-Research Engineer 0x10 Code Alchemist
+𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝟬𝘅𝟭𝟬 | 𝗖𝗼𝗱𝗲 𝗔𝗹𝗰𝗵𝗲𝗺𝗶𝘀𝘁
 
 
 ## 🌐 Socials:
