@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -37,6 +37,10 @@
   <a href="https://github.com/Odin-XD">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odin-XD&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
