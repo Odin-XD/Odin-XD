@@ -1,7 +1,9 @@
 <div align="center">
 
 <a href="https://giphy.com/gifs/f6XoSukxBaldfCO8Zr">
-  <img src="https://i.giphy.com/f6XoSukxBaldfCO8Zr.gif" width="100%" alt="GIF">
+  <img src="https://media1.giphy.com/media/f6XoSukxBaldfCO8Zr/giphy.gif"
+       width="100%"
+       alt="GIF">
 </a>
 
 <br><br>
