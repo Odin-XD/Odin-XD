@@ -5,7 +5,7 @@
 
 <br><br>
 
-<a href="[YOUR_INSTAGRAM_LINK](https://www.instagram.com/sus.vijayyy/)">
+<a href="https://www.instagram.com/sus.vijayyy/">
   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram">
 </a>
 
