@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/26gN12uxpyl82bgju/giphy.gif" width="100%" alt="GIF">
+<a href="https://giphy.com/gifs/f6XoSukxBaldfCO8Zr">
+  <img src="https://i.giphy.com/f6XoSukxBaldfCO8Zr.gif" width="100%" alt="GIF">
+</a>
 
 <br><br>
 
@@ -22,4 +23,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
 
 </div>
-
