@@ -1,51 +1,51 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Vijay Kaushik</h1>
+<h3 id="hey--im-odin-xd">Hey 👋, I’m <a href="https://github.com/Odin-xd">Odin-xd!</a></h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Odin-XD">
-    <img src="https://komarev.com/ghpvc/?username=Odin-XD&label=Profile%20views&color=00FFFF&style=flat-square" alt="Odin-XD's profile views" />
-  </a>
-</p>
+<a href="https://www.instagram.com/sus.vijayyy/">
+  <img align="left" alt="Odin-xd's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
 
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
+<br>
+<br>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Odin-XD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Odin-XD&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Odin-XD's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Odin-XD&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Odin-XD's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Odin-XD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Vijay Kaushik's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Odin-XD&theme=tokyonight&radius=10" alt="Odin-XD's Activity Graph" />
-</p>
+<p>Hi, I’m Odin-xd, a passionate engineering graduate specialised in computer science. Enthusiastic about programming and solving problems. Fascinated by accepting new challenges.</p>
+
+<p>”Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”</p>
+
+<img align="right" height="300px" width="320px" alt="GIF" src="https://media.giphy.com/media/Z0WOQsyB1hY7JSXPGu/giphy.gif">
 
 
-## 🛠️ Languages & Tools
+<p><strong>Talking about Skills:</strong></p>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+<ul>
+<li><p>C++</p></li>
+<li><p>C</p></li>
+<li><p>Python</p></li>
+</ul>
 
-</p>
+<p>💬 Ask me about anything, I am happy to help</p>
 
-<p align="center">
-  <a href="https://github.com/Odin-XD">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odin-XD&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Odin-xd&amp;show_icons=true&amp;hide_border=true" alt="Odin-xd's GitHub stats"></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+<p>📌 Star and Fork this <a href="https://github.com/Odin-xd/Odin-xd">README</a> ✏️</p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p>💻 Recent projects in which I have contributed on my GitHub profile.</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
+<a href="https://github.com/Odin-xd/FacialEmotionRecognition-usingCNN">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Odin-xd&amp;repo=FacialEmotionRecognition-usingCNN">
+</a>
 
+<a href="https://github.com/Odin-xd/FaceRecognisationBasedAttendence">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Odin-xd&amp;repo=FaceRecognisationBasedAttendence">
+</a>
+
+<a href="https://github.com/Odin-xd/pathFinderVisualizer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Odin-xd&amp;repo=pathFinderVisualizer">
+</a>
+
+<a href="https://github.com/Odin-xd/SpeechEmotionRecognization">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Odin-xd&amp;repo=SpeechEmotionRecognization">
+</a>
+
+<hr>
+
+<p>Credits: <a href="https://github.com/Odin-xd">Odin-xd</a></p>
