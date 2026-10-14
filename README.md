@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26gN12uxpyl82bgju/giphy.gif" width="100%" />
+<img src="https://giphy.com/gifs/Z0WOQsyB1hY7JSXPGu" width="100%" />
 
 <br><br>
 
