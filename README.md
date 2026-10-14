@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://giphy.com/gifs/mind-blown-genius-complex-math-QdQ0LRg2YOlClNziBd" width="100%" />
+<img src="https://giphy.com/gifs/f6XoSukxBaldfCO8Zr" width="100%" />
 
 <br><br>
 
