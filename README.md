@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="./giphy.gif"
-       width="100%"
+       width="60%"
        alt="GIF">
 
   <br><br>
